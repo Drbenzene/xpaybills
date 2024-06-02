@@ -16,11 +16,11 @@
 
 ## HOW TO START THE APP
 
--   clone rEPO
+-   clone repo https://github.com/Drbenzene/xpaybills
 -   npm i
 -   create .env file in root dir. example file exists in the env.example file
 -   start containers: docker compose up -d --build -V
 
 ## postman documantation:
 
--   https://documenter.getpostman.com/view/18642736/2sA3JJ9Nrx
+-   https://documenter.getpostman.com/view/17815804/2sA3QwcVgz
